@@ -1,1 +1,2 @@
-# SonHW9-1
+# use command:
+python problem1.py
